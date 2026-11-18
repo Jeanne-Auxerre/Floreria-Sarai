@@ -1,0 +1,50 @@
+{
+  "proveedores": {
+    "Florícola Andina": {
+      "lead_time_dias": 2,
+      "vida_util_tienda": 3
+    },
+    "Importaciones Flora": {
+      "lead_time_dias": 4,
+      "vida_util_tienda": 2
+    },
+    "Cultivos del Sur": {
+      "lead_time_dias": 1,
+      "vida_util_tienda": 4
+    }
+  },
+  "catalogo_flores": {
+    "Rosas": "Florícola Andina",
+    "Lirios": "Importaciones Flora",
+    "Margaritas": "Cultivos del Sur",
+    "Girasoles": "Florícola Andina",
+    "Tulipanes": "Importaciones Flora",
+    "Claveles": "Cultivos del Sur"
+  },
+  "bouquets": {
+    "Bouquet Romántico": {
+      "Rosas": 12,
+      "Lirios": 4,
+      "Margaritas": 0,
+      "Girasoles": 0,
+      "Tulipanes": 0,
+      "Claveles": 0
+    },
+    "Bouquet Campestre": {
+      "Rosas": 6,
+      "Lirios": 0,
+      "Margaritas": 10,
+      "Girasoles": 4,
+      "Tulipanes": 0,
+      "Claveles": 0
+    },
+    "Arreglo Elegancia Primavera": {
+      "Rosas": 18,
+      "Lirios": 6,
+      "Margaritas": 6,
+      "Girasoles": 0,
+      "Tulipanes": 8,
+      "Claveles": 5
+    }
+  }
+}

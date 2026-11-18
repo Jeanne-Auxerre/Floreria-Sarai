@@ -1,0 +1,262 @@
+[
+    {
+        "id_pedido": "P100",
+        "fecha_evento": "2027-06-15",
+        "flores": [
+            {
+                "flor": "Rosus",
+                "cantidad": 15
+            }
+        ]
+    },
+    {
+        "id_pedido": "P101",
+        "fecha_evento": "2026-10-16",
+        "flores": [
+            {
+                "flor": "Margaritas",
+                "cantidad": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "cliente": "test1",
+        "bouquet_type": "Bouquet Romántico",
+        "fecha_entrega": "2026-10-08",
+        "items": {
+            "Rosas": 12,
+            "Lirios": 4
+        },
+        "fecha_registro": "2026-10-03"
+    },
+    {
+        "id": 4,
+        "cliente": "test1",
+        "bouquet_type": "Arreglo Elegancia Primavera",
+        "fecha_entrega": "2026-10-04",
+        "items": {
+            "Rosas": 18,
+            "Lirios": 6,
+            "Margaritas": 6,
+            "Tulipanes": 8,
+            "Claveles": 5
+        },
+        "fecha_registro": "2026-10-03"
+    },
+    {
+        "id": 5,
+        "cliente": "Empresa / Cliente S.A.",
+        "bouquet_type": "Bouquet Romántico",
+        "fecha_entrega": "2026-10-08",
+        "items": {
+            "Rosas": 12,
+            "Lirios": 4
+        },
+        "fecha_registro": "2026-10-03"
+    },
+    {
+        "id": 6,
+        "cliente": "test2",
+        "bouquet_type": "Arreglo Elegancia Primavera",
+        "fecha_entrega": "2026-10-08",
+        "items": {
+            "Rosas": 18,
+            "Lirios": 6,
+            "Margaritas": 6,
+            "Tulipanes": 8,
+            "Claveles": 5
+        },
+        "fecha_registro": "2026-10-03"
+    },
+    {
+        "id": 7,
+        "cliente": "Cliente 1",
+        "bouquet_type": "Bouquet Romántico",
+        "fecha_entrega": "2026-11-04",
+        "items": {
+            "Rosas": 12,
+            "Lirios": 4
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 8,
+        "cliente": "Cliente 2",
+        "bouquet_type": "Bouquet Campestre",
+        "fecha_entrega": "2026-11-08",
+        "items": {
+            "Rosas": 6,
+            "Margaritas": 10,
+            "Girasoles": 4
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 9,
+        "cliente": "Cliente 3",
+        "bouquet_type": "-- Ninguno (Personalizado) --",
+        "fecha_entrega": "2026-11-11",
+        "items": {
+            "Tulipanes": 2,
+            "Claveles": 2
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 10,
+        "cliente": "Cliente 3",
+        "bouquet_type": "Bouquet Campestre",
+        "fecha_entrega": "2026-11-03",
+        "items": {
+            "Rosas": 6,
+            "Margaritas": 10,
+            "Girasoles": 4
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 11,
+        "cliente": "Cliente 4",
+        "bouquet_type": "Arreglo Elegancia Primavera",
+        "fecha_entrega": "2026-11-03",
+        "items": {
+            "Rosas": 18,
+            "Lirios": 6,
+            "Margaritas": 6,
+            "Tulipanes": 8,
+            "Claveles": 5
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 12,
+        "cliente": "Cliente 1",
+        "bouquet_type": "Bouquet Romántico",
+        "fecha_entrega": "2026-11-04",
+        "items": {
+            "Rosas": 12,
+            "Lirios": 4
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 13,
+        "cliente": "Cliente 2",
+        "bouquet_type": "-- Ninguno (Personalizado) --",
+        "fecha_entrega": "2026-11-05",
+        "items": {
+            "Rosas": 20,
+            "Lirios": 6,
+            "Margaritas": 6,
+            "Girasoles": 1,
+            "Tulipanes": 8,
+            "Claveles": 5
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 14,
+        "cliente": "Cliente 1",
+        "bouquet_type": "Bouquet Romántico",
+        "fecha_entrega": "2026-11-04",
+        "items": {
+            "Rosas": 12,
+            "Lirios": 4
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 15,
+        "cliente": "Cliente 2",
+        "bouquet_type": "-- Ninguno (Personalizado) --",
+        "fecha_entrega": "2026-11-05",
+        "items": {
+            "Rosas": 18,
+            "Lirios": 6,
+            "Margaritas": 3,
+            "Girasoles": 3,
+            "Tulipanes": 11,
+            "Claveles": 5
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 16,
+        "cliente": "Cliente1 ",
+        "bouquet_type": "Bouquet Romántico",
+        "fecha_entrega": "2026-11-04",
+        "items": {
+            "Rosas": 12,
+            "Lirios": 4
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 17,
+        "cliente": "Cliente2",
+        "bouquet_type": "-- Ninguno (Personalizado) --",
+        "fecha_entrega": "2026-11-05",
+        "items": {
+            "Rosas": 14,
+            "Lirios": 6,
+            "Margaritas": 6,
+            "Girasoles": 2,
+            "Tulipanes": 11,
+            "Claveles": 5
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 18,
+        "cliente": "Cliente 1",
+        "bouquet_type": "Bouquet Romántico",
+        "fecha_entrega": "2026-11-04",
+        "items": {
+            "Rosas": 12,
+            "Lirios": 4
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 19,
+        "cliente": "Cliente 2",
+        "bouquet_type": "Arreglo Elegancia Primavera",
+        "fecha_entrega": "2026-11-05",
+        "items": {
+            "Rosas": 18,
+            "Lirios": 6,
+            "Margaritas": 6,
+            "Tulipanes": 8,
+            "Claveles": 5
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 20,
+        "cliente": "Cliente 1",
+        "bouquet_type": "-- Ninguno (Personalizado) --",
+        "fecha_entrega": "2026-11-04",
+        "items": {
+            "Rosas": 12,
+            "Lirios": 4,
+            "Margaritas": 2,
+            "Girasoles": 2
+        },
+        "fecha_registro": "2026-10-30"
+    },
+    {
+        "id": 21,
+        "cliente": "Cliente 2",
+        "bouquet_type": "Arreglo Elegancia Primavera",
+        "fecha_entrega": "2026-11-05",
+        "items": {
+            "Rosas": 18,
+            "Lirios": 6,
+            "Margaritas": 6,
+            "Tulipanes": 8,
+            "Claveles": 5
+        },
+        "fecha_registro": "2026-10-30"
+    }
+]
